@@ -108,11 +108,13 @@ namespace Nacho_Opera
         private void txtPrimerNúmero_TextChanged(object sender, EventArgs e)
         {
             pbCheemsPrimerNumero.Visible = !string.IsNullOrWhiteSpace(txtPrimerNúmero.Text);
+            pbCheemsFuerte.Visible = string.IsNullOrWhiteSpace(txtPrimerNúmero.Text);
         }
 
         private void txtSegundoNúmero_TextChanged(object sender, EventArgs e)
         {
             pbCheemsSegundoNumero.Visible = !string.IsNullOrWhiteSpace(txtSegundoNúmero.Text);
+            pbCheemsFuerte.Visible = string.IsNullOrWhiteSpace(txtPrimerNúmero.Text);
         }
         private void btnSumar_Click(object sender, EventArgs e)
         {
