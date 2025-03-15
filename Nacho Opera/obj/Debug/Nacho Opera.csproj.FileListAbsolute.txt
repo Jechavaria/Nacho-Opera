@@ -1,0 +1,15 @@
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho Opera.csproj.AssemblyReference.cache
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho_Opera.frmNachoOpera.resources
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho_Opera.Properties.Resources.resources
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho Opera.csproj.GenerateResource.cache
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho Opera.csproj.CoreCompileInputs.cache
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\bin\Debug\Nacho Opera.exe.config
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\bin\Debug\Nacho Opera.exe
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\bin\Debug\Nacho Opera.pdb
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\bin\Debug\NachoDivide.pdb
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\bin\Debug\NachoMultiplica.pdb
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\bin\Debug\NachoResta.pdb
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\bin\Debug\NachoSuma.pdb
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho Op.4DA9B6A6.Up2Date
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho Opera.exe
+E:\Herramientas de programacion 2\Nacho-Opera\Nacho Opera\obj\Debug\Nacho Opera.pdb
